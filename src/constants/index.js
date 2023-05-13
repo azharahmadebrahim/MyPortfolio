@@ -4,17 +4,14 @@ import {
   creator,
   web,
   javascript,
-  typescript,
   html,
   css,
   reactjs,
-  redux,
   tailwind,
   nodejs,
   mongodb,
   git,
   python,
-  docker,
   meta,
   starbucks,
   tesla,
@@ -74,16 +71,8 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
     name: "React JS",
     icon: reactjs,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
   },
   {
     name: "Tailwind CSS",
@@ -109,11 +98,6 @@ const technologies = [
     name: "python",
     icon: python,
   },
-  {
-    name: "docker",
-    icon: docker,
-  },
-
 ];
 
 const experiences = [
