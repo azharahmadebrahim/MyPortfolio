@@ -49,9 +49,6 @@ const services = [
   },
 ];
 
-const technologies = [
-  
-];
 
 const experiences = [
   {
@@ -201,4 +198,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, experiences, testimonials, projects };
